@@ -1,0 +1,20 @@
+{
+  "name": "cypress-2e2-framework",
+  "version": "1.0.0",
+  "description": "E2E Framework Testing Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "testing",
+    "cypress"
+  ],
+  "author": "Jean Andrade",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.3"
+  }
+}
